@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>oruntu/1.png</file>
+        <file>oruntu/2.png</file>
+        <file>oruntu/3.png</file>
+        <file>oruntu/4.png</file>
+        <file>oruntu/5.png</file>
+        <file>oruntu/6.png</file>
+        <file>oruntu/7.png</file>
+        <file>oruntu/8.png</file>
+        <file>oruntu/9.png</file>
+        <file>oruntu/10.png</file>
+    </qresource>
+</RCC>
